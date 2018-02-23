@@ -1,4 +1,4 @@
-# Exploratory lithology analysis
+# Exploratory Lithology Analysis (pyELA)
 
 Analysing driller’s logs is tedious and repetitive task in many groundwater modelling projects. Automating the process of extracting useful information from driller's logs would allow spending less time on data management and more time on its interpretation.
 
